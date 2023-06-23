@@ -1,0 +1,23 @@
+Last login: Fri Jun 23 10:01:41 on ttys074
+git --version%                                                                  (base) rachaelelkington@Rachaels-MacBook-Pro ~ % git --version
+git version 2.39.2 (Apple Git-143)
+(base) rachaelelkington@Rachaels-MacBook-Pro ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
