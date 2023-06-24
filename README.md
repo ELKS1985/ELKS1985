@@ -12,6 +12,15 @@ Whether it's improving healthcare, fighting climate change, or just making the w
 
 So if you're looking for a **data-driven do-gooder,** look no further!
 
+
+
+![2](https://github.com/ELKS1985/ELKS1985/assets/127788109/4a30cb00-ad2e-4af5-ba6c-48ba0ee8c06d)
+![1](https://github.com/ELKS1985/ELKS1985/assets/127788109/725c6f3a-65fe-4e05-b6ff-905ce7d55cd8)
+
+
+
+
+
 {% include youtube.html id="v=vE-f_3mLw6Q" %}
 
 <sub>Did you know that data bias </sub>
