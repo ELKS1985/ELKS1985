@@ -1,18 +1,22 @@
-#0969DA
 
-# 👋 **Hi, I’m @ELKS1985**
-## 👀 ***I’m interested in using data to make positive social impact***
-### 🌱 I’m currently completing a Data Science Intensive Bootcamp with @HyperionDev
-### 📫 Reach me at: rachaelelkington@hotmail.com
+# 👋   Hi,  I’m Rachael/~~Rach~~/Rae
+## 👀  I'm all about using data to make positive social impact
+## 🌱 I’m about to become a @HyperionDevBootcamp Data Science graduate 
+## 📫 Reach me at: rachaelelkington@hotmail.com
+
+Looking for a coder with a consience who can make sense of all that data? 
+As a **data science graduate,** I've got the skills and passion to turn those endless streams of numbers into something meaningful. 
+
+But I'm not just in it for the money. I'm all about **using data for social good**. 
+Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
+
+So if you're looking for a **data-driven do-gooder,** look no further!
 
 {% include youtube.html id="v=vE-f_3mLw6Q" %}
 
-~~I am~~ I _used to be_ a teacher, graphic designer, writer and editor.
+<sub>Did you know that data bias </sub>
 
-
-<sub>This is a subscript text</sub>
-
-> Text that is a quote
+> Text that is a quote from Invisible Women
 
 The background color is #ffffff rgb(R,G,B) rgb(9, 105, 218)
 
@@ -33,7 +37,7 @@ The background color is #ffffff rgb(R,G,B) rgb(9, 105, 218)
    - First nested list item
      - Second nested list item
     
-@HyperionDevBootcamp What do you think about these updates?
+ What do you think about these updates?
 
 
 
