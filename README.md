@@ -5,6 +5,7 @@
 ### 🌱 I’m currently completing a Data Science Intensive Bootcamp with @HyperionDev
 ### 📫 Reach me at: rachaelelkington@hotmail.com
 
+{% include youtube.html id="v=vE-f_3mLw6Q" %}
 
 ~~I am~~ I _used to be_ a teacher, graphic designer, writer and editor.
 
