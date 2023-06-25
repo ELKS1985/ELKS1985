@@ -1,84 +1,69 @@
+![rachael_elkington data scientist-2](https://github.com/ELKS1985/ELKS1985/assets/127788109/4f65575f-bcd9-4232-8428-950c9a6e7af7)
 
-# 👋   Hi,  I’m Rachael/~~Rach~~/Rae
-## 👀  I'm all about using data to make positive social impact
-## 🌱 I’m about to become a @HyperionDevBootcamp Data Science graduate 
-## 📫 Reach me at: rachaelelkington@hotmail.com
 
-Looking for a coder with a consience who can make sense of all that data? 
-As a **data science graduate,** I've got the skills and passion to turn those endless streams of numbers into something meaningful. 
 
-But I'm not just in it for the money. I'm all about **using data for social good**. 
-Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
+# 👋  Rae/Rachael/~~Rach~~
+## 👀 I'm all about using data to make positive social impact
+## 🌱 Soon-to-be @HyperionDevBootcamp Data Science graduate 
+## 📫 Get in touch: rachaelelkington@hotmail.com
+
+
+Looking for a coder with a conscience who can make sense of all that data? As a **data science graduate,** I've got the skills and passion to turn those endless streams of numbers into something meaningful. 
+
+I'm not just in it for the money. I'm all about **using data for social good**. Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
 
 So if you're looking for a **data-driven do-gooder,** look no further!
 
+![cp](https://github.com/ELKS1985/ELKS1985/assets/127788109/cb978393-9e9e-4e28-a347-b719cff1064a)
 
 
-![2](https://github.com/ELKS1985/ELKS1985/assets/127788109/4a30cb00-ad2e-4af5-ba6c-48ba0ee8c06d)
-![1](https://github.com/ELKS1985/ELKS1985/assets/127788109/725c6f3a-65fe-4e05-b6ff-905ce7d55cd8)
+<!--  https://ELKS1985.github.io/portfolio/  -->
 
+<img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+ 
+<img src="https://badges.pufler.dev/visits/ELKS1985/ELKS1985"/> 
+<!-- <img src="https://badges.pufler.dev/years/ELKS1985"/> -->
+<img src="https://badges.pufler.dev/repos/ELKS1985"/>
+<img src="https://badges.pufler.dev/commits/monthly/ELKS1985" />
+<h2 Technology Stack <img src="https://github.com/ELKS1985/ELKS1985/blob/main/images/laptop.gif" width="50"></h2>
 
+</p>
 
-
-
-{% include youtube.html id="v=vE-f_3mLw6Q" %}
-
-<sub>Did you know that data bias </sub>
-
-> Text that is a quote from Invisible Women
-
-The background color is #ffffff rgb(R,G,B) rgb(9, 105, 218)
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-1. First list item
-   - First nested list item
-     - Second nested list item
-    
- What do you think about these updates?
-
-
-
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-<sup>This page was built by [Rachael Joan](https://pages.github.com/ELKS1985).</sup>
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-
-
-
-  
+![phone](https://github.com/ELKS1985/ELKS1985/assets/127788109/e5a3d25a-2537-4a5c-b4b9-f10f3852ea55)
 
 
 
 
 
+<!-- <img src="https://img.shields.io/badge/-ELKS1985-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: rachaelelkington@hotmail.com">
+<img src="https://img.shields.io/badge/-rachaelelkington-blue?style=flat square&logo=Microsoft&logoColor=white&link=mailto:rachaelelkington@hotmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/ELKS1985-698a18142/">
+<img src="https://img.shields.io/badge/-Rachael Joan Elkington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachaeljoan"/>
+</a>
+<a href="https://twitter.com/raejoancreative">
+<img src="https://img.shields.io/badge/-raejoancreative-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/raejoancreative"/>
+</a>
+</p>
+<h2 My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p
+</p>
 
-
-
-
-
-
-
-
-<!---
-ELKS1985/ELKS1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+<img  src = "https://github-readme-stats.vercel.app/api?username=ELKS1985&show_icons=true&theme=radical&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ELKS1985&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ELKS1985&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
