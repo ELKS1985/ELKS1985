@@ -8,9 +8,9 @@
 ## 📫 Get in touch: rachaelelkington@hotmail.com
 
 
-Looking for a coder with a conscience who can make sense of all that data? As a **data science graduate,** I've got the skills and passion to turn those endless streams of numbers into something meaningful. 
+Looking for a coder with a conscience who can make sense of your data? As a **Data Scientist,** I've got the skills and passion to turn those endless streams of numbers into something meaningful! 
 
-I'm not just in it for the money. I'm all about **using data for social good**. Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
+I'm all about **using data for social good**. Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
 
 So if you're looking for a **data-driven do-gooder,** look no further!
 
@@ -36,10 +36,6 @@ So if you're looking for a **data-driven do-gooder,** look no further!
 </p>
 
 ![phone](https://github.com/ELKS1985/ELKS1985/assets/127788109/e5a3d25a-2537-4a5c-b4b9-f10f3852ea55)
-
-
-
-
 
 <!-- <img src="https://img.shields.io/badge/-ELKS1985-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: rachaelelkington@hotmail.com">
@@ -67,3 +63,5 @@ So if you're looking for a **data-driven do-gooder,** look no further!
 </p>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ELKS1985&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=112944465)
