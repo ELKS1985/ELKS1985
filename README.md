@@ -1,16 +1,12 @@
-![rachael_elkington data scientist-2](https://github.com/ELKS1985/ELKS1985/assets/127788109/4f65575f-bcd9-4232-8428-950c9a6e7af7)
-
-
 
 # 👋  Rae/Rachael/~~Rach~~
-## 👀 I'm all about using data to make positive social impact
-## 🌱 Soon-to-be @HyperionDevBootcamp Data Science graduate 
+## 💻 Data Engineer in the making...
+## 🩷 I'm all about using data to make positive social impact
+## 🌱 @HyperionDevBootcamp Data Science graduate 
 ## 📫 Get in touch: rachaelelkington@hotmail.com
 
 
-Looking for a coder with a conscience who can make sense of your data? As a **Data Scientist,** I've got the skills and passion to turn those endless streams of numbers into something meaningful! 
-
-I'm all about **using data for social good**. Whether it's improving healthcare, fighting climate change, or just making the world a better place, I'm ready to roll up my sleeves and get to work. 
+Aspiring **Data Engineer** passionate about transforming data into meaningful insights. With a background in **Data Science,** I thrive on using data to tackle challenges like improving healthcare and combating climate change. Eager to contribute to projects that make a **positive impact,** I’m ready to roll up my sleeves and dive into **data-driven solutions.** 
 
 So if you're looking for a **data-driven do-gooder,** look no further!
 
